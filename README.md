@@ -1,5 +1,5 @@
 # ClearedExcelfile
-Create new copy of cleaned excel sheet
+
 load excel sheet and hide unneeded columns and rows and create new file called
 cleanedinventorycount.xlsx
 
